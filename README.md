@@ -5,7 +5,6 @@
 **Name:** Navitha  
 **Roll Number:** 32
 **Course Name:** Introduction to Data Structure  
-**University:** Sai University  
 
 ---
 
